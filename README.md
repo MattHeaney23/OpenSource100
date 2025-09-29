@@ -33,11 +33,11 @@ The work was widely praised on X ([Post 1](https://x.com/jsedlacekjr/status/1895
 
 --- 
 
-## ✅ 3. Basic-Car-Maintenance  
+## ✅ 3. Basic Car Maintenance  
 **Project:** [mikaelacaron/Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance)  
 **My PR:** [#385](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/385)
 
-I fixed broken GitHub Actions on the Basic-Car-Maintenance app. Whilst it turned out to be a super small change, I’ve never worked directly with GitHub Actions before, so it was a fun challenge. I took the chance to dive into a few areas to understand how everything was wired under the hood, including working with .yml files, .sh files and using Fastlane in a new way. 
+I fixed broken GitHub Actions on the Basic Car Maintenance app. Whilst it turned out to be a super small change, I’ve never worked directly with GitHub Actions before, so it was a fun challenge. I took the chance to dive into a few areas to understand how everything was wired under the hood, including working with .yml files, .sh files and using Fastlane in a new way. 
 
 This was a project I really wanted to help with. The project is used by a range of iOS developers in the community as part of Hacktoberfest, where developers are encouraged to get involved with open source work throughout October. A lot of new developers have used this project to build real life experience, so it was great to help get it ready ahead of Hacktoberfest 2025.
 
