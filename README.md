@@ -1,6 +1,6 @@
 # OpenSource100
 
-**Progress:** 3 / 100 ✅  
+**Progress:** 4 / 100 ✅  
 
 This is a build-in-public challenge where I contribute to 100 open source Swift projects.
 
@@ -43,4 +43,16 @@ This was a project I really wanted to help with. The project is used by a range 
 
 <img width="400" height="400" alt="Basic-Car-Maintenance Image" src="https://github.com/user-attachments/assets/1e5d0443-df73-46e5-9ebd-673c9685ac6b" />
 
+--- 
+
+## ✅ 4. Bike Index
+
+**Project:** [bikeindex/bike_index_ios](https://github.com/bikeindex/bike_index_ios)  
+**My PR:** [#113](https://github.com/bikeindex/bike_index_ios/pull/113)
+
+I added App Intents to the Bike Index app. This works with the AppEntity protocol, which lets you expose model data (like items stored in SwiftData) to App Intents. With this new feature, users can use Shortcuts or Siri to launch the app and view details about one of their saved bikes.
+
+This was my first time working with App Intents, and I learned the fundamentals of the framework while building this feature.
+
+<img width="400" height="400" alt="Bike Index App Intents Example" src="https://github.com/user-attachments/assets/7161d844-5657-4db9-8ffa-a1311a5459aa" />
 
