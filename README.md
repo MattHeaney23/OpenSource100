@@ -1,6 +1,9 @@
 # OpenSource100
 
-**Progress:** 4 / 100 ✅  
+**Progress:**
+
+✅ Completed: 4 / 100   
+🟠 In progress: 1
 
 This is a build-in-public challenge where I contribute to 100 open source Swift projects.
 
@@ -12,7 +15,8 @@ This challenge is designed to grow my ability to jump into any Swift project and
 
 ## ✅ 1. Deep Dish Swift (Unofficial)  
 **Project:** [MortenGregersen/DeepDishLie](https://github.com/MortenGregersen/DeepDishLie)  
-**My PR:** [#19](https://github.com/MortenGregersen/DeepDishLie/pull/19)
+**My PR:** 
+- [#19](https://github.com/MortenGregersen/DeepDishLie/pull/19)
 
 I added an App Clip to the unofficial Deep Dish Swift app, ahead of giving a talk on App Clips at Deep Dish Swift 2025. This included creating the App Clip target, restructuring the code for modular use, and collaborating with the maintainer to support associated domains, submit to Apple, and release the App Clip.
 
@@ -23,7 +27,8 @@ I added an App Clip to the unofficial Deep Dish Swift app, ahead of giving a tal
 
 ## ✅ 2. Scrumdinger  
 **Project:** [JamesSedlacek/Scrumdinger](https://github.com/JamesSedlacek/Scrumdinger)  
-**My PR:** [#5](https://github.com/JamesSedlacek/Scrumdinger/pull/5)
+**My PR:** 
+- [#5](https://github.com/JamesSedlacek/Scrumdinger/pull/5)
 
 I restructured the UI tests to use the Robot Pattern and added a README section to help others adopt it. This change made UI testing more scalable, readable, and maintainable.
 
@@ -35,7 +40,8 @@ The work was widely praised on X ([Post 1](https://x.com/jsedlacekjr/status/1895
 
 ## ✅ 3. Basic Car Maintenance  
 **Project:** [mikaelacaron/Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance)  
-**My PR:** [#385](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/385)
+**My PR:** 
+- [#385](https://github.com/mikaelacaron/Basic-Car-Maintenance/pull/385)
 
 I fixed broken GitHub Actions on the Basic Car Maintenance app. Whilst it turned out to be a super small change, I’ve never worked directly with GitHub Actions before, so it was a fun challenge. I took the chance to dive into a few areas to understand how everything was wired under the hood, including working with .yml files, .sh files and using Fastlane in a new way. 
 
@@ -48,7 +54,8 @@ This was a project I really wanted to help with. The project is used by a range 
 ## ✅ 4. Bike Index
 
 **Project:** [bikeindex/bike_index_ios](https://github.com/bikeindex/bike_index_ios)  
-**My PR:** [#113](https://github.com/bikeindex/bike_index_ios/pull/113)
+**My PR:** 
+- [#113](https://github.com/bikeindex/bike_index_ios/pull/113)
 
 I added App Intents to the Bike Index app. This works with the AppEntity protocol, which lets you expose model data (like items stored in SwiftData) to App Intents. With this new feature, users can use Shortcuts or Siri to launch the app and view details about one of their saved bikes.
 
@@ -56,3 +63,15 @@ This was my first time working with App Intents, and I learned the fundamentals 
 
 <img width="400" height="400" alt="Bike Index App Intents Example" src="https://github.com/user-attachments/assets/7161d844-5657-4db9-8ffa-a1311a5459aa" />
 
+---
+
+## 🟠 5. VideoPaper
+
+**Project:** [Mcrich-LLC/VideoPaper](https://github.com/Mcrich-LLC/VideoPaper)  
+**My PRs:**
+- [#4 - Fix to the new video crash](https://github.com/Mcrich-LLC/VideoPaper/pull/4)
+- [#5 Add Drag & Drop Zones for Videos and Thumbnails](https://github.com/Mcrich-LLC/VideoPaper/pull/5) - Pending Approval
+
+I fixed a critical crash in VideoPaper and added new functionality, allowing users to drag and drop assets into the app.
+
+VideoPaper, an app which lets users add custom video backgrounds to macOS 26, was created as part of Swift Saturday, a monthly community event I run to encourage developers to work on their passion projects. I wanted to help the project progress toward a releasable version.
