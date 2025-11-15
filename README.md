@@ -2,8 +2,7 @@
 
 **Progress:**
 
-✅ Completed: 4 / 100   
-🟠 In progress: 1
+✅ Completed: 5 / 100   
 
 This is a build-in-public challenge where I contribute to 100 open source Swift projects.
 
@@ -70,8 +69,11 @@ This was my first time working with App Intents, and I learned the fundamentals 
 **Project:** [Mcrich-LLC/VideoPaper](https://github.com/Mcrich-LLC/VideoPaper)  
 **My PRs:**
 - [#4 - Fix to the new video crash](https://github.com/Mcrich-LLC/VideoPaper/pull/4)
-- [#5 Add Drag & Drop Zones for Videos and Thumbnails](https://github.com/Mcrich-LLC/VideoPaper/pull/5) - Pending Approval
+- [#5 Add Drag & Drop Zones for Videos and Thumbnails](https://github.com/Mcrich-LLC/VideoPaper/pull/5)
 
 I fixed a critical crash in VideoPaper and added new functionality, allowing users to drag and drop assets into the app.
 
 VideoPaper, an app which lets users add custom video backgrounds to macOS 26, was created as part of Swift Saturday, a monthly community event I run to encourage developers to work on their passion projects. I wanted to help the project progress toward a releasable version.
+
+<img width="400" height="400" alt="Video Paper Examples" src="https://github.com/user-attachments/assets/043dca1c-2bf4-4c54-8360-41351006942e" />
+
